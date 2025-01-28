@@ -1,0 +1,1 @@
+# plugins-altcha-spam-protection
